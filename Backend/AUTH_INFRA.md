@@ -1,0 +1,8 @@
+MONGO_URI=your_mongodb_connection_string
+PORT=5000
+JWT_SECRET=your_jwt_secret
+JWT_EXPIRE=6h
+CLOUD_NAME=your_cloudinary_cloud_name
+API_KEY=your_cloudinary_api_key
+API_SECRET=your_cloudinary_api_secret
+CORS_ORIGINS=http://localhost:3000,http://localhost:5173
